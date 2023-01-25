@@ -1,0 +1,38 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "yarn upgrade"
+  },
+  "devDependencies": {
+    "nuxt": "^3",
+    "vite-plugin-vuetify": "^1.0.0",
+    "vuetify": "^3"
+  },
+  "keywords": [
+    "vuetify",
+    "template",
+    "nuxt",
+    "vue"
+  ],
+  "name": "nuxt-3-and-vuetify-3-template",
+  "description": "Hello Nuxt & Express",
+  "dependencies": {
+    "@mdi/font": "7.0.96",
+    "@nuxt/types": "^2.15.8",
+    "@nuxtjs-alt/proxy": "^2.1.2",
+    "@pinia/nuxt": "^0.4.6",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http-proxy": "^1.18.1",
+    "http-proxy-middleware": "^2.0.6",
+    "nodemon": "^2.0.20",
+    "pinia": "^2.0.28",
+    "sass": "^1.56.1",
+    "sass-loader": "^13.2.0"
+  }
+}
