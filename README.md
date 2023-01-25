@@ -6,7 +6,6 @@ NUXT 3, VUE 3, Boilerplate with separate backend from EXPRESS JS, Typescript inc
 ```bash
 npm install
 ```
-## Usage
 
 ## License
 
